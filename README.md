@@ -1,5 +1,7 @@
 # internet_connection_datalogging
 
+Scripts to take the output of [internet_connection_monitor](https://github.com/tim-fan/internet_connection_monitor) and upload to this repo (see [logs](./logs/))
+
 ## Setup
 
 Setup data push:
