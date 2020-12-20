@@ -8,3 +8,8 @@ sudo ln services/internet_connection_log_push.service /etc/systemd/system/intern
 systemctl enable internet_connection_log_push.service
 sudo systemctl start internet_connection_log_push.service
 ```
+
+Get logs from push service:
+```bash
+sudo journalctl -u internet_connection_log_push
+```
