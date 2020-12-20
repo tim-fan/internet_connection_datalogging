@@ -17,5 +17,5 @@ do
     git add -u
     git commit -m "Automatic update $(date)"
     git push
-    sleep 300
+    sleep 60
 done
