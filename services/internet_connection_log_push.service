@@ -1,0 +1,13 @@
+[Unit]
+Description=Push internet connection logs to github
+After=network.target
+StartLimitIntervalSec=0
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=tim
+ExecStart=/home/tim/projects/20201220_internet_connection_monitor/internet_connection_datalogging/scripts/push_updates.sh /home/tim/projects/20201220_internet_connection_monitor/internet_connection_datalogging/
+
+[Install]
+WantedBy=multi-user.target
