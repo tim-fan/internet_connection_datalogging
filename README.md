@@ -16,5 +16,5 @@ sudo systemctl start internet_connection_monitor.service
 
 Get logs from push service:
 ```bash
-sudosudo journalctl -u internet_connection_log_push
+sudo journalctl -u internet_connection_log_push
 ```
