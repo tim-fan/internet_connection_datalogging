@@ -12,10 +12,4 @@ LOG_DIR=$1
 
 cd $LOG_DIR
 
-while :
-do 
-    git add -u
-    git commit -m "Automatic update $(date)"
-    git push
-    sleep 60
-done
+find $LOG_DIR | entr bash -c "git add -u && git commit -m 'Automatic update $(date)' && git push"
