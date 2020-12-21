@@ -7,7 +7,7 @@ Type=simple
 Restart=always
 RestartSec=1
 User=tim
-ExecStart=/home/tim/projects/20201220_internet_connection_monitor/internet_connection_datalogging/scripts/push_updates.sh /home/tim/projects/20201220_internet_connection_monitor/internet_connection_datalogging/
+ExecStart=/home/tim/projects/20201220_internet_connection_monitor/internet_connection_datalogging/scripts/push_updates.sh /home/tim/projects/20201220_internet_connection_monitor/internet_connection_datalogging/logs/
 
 [Install]
 WantedBy=multi-user.target
