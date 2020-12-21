@@ -7,7 +7,7 @@ Type=simple
 Restart=always
 RestartSec=30
 User=tim
-ExecStart=/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/python /home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor --no-header -s 5 'The Village Reserve' 'Village Reserve Downstairs'
+ExecStart=/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/python /home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor --no-header -s 60 'The Village Reserve'
 StandardOutput=file:/home/tim/projects/20201220_internet_connection_monitor/internet_connection_datalogging/logs/test_log3.csv
 [Install]
 WantedBy=multi-user.target
