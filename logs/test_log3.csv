@@ -1,8 +1,14 @@
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
+1608546072.2684731,The Village Reserve,1,1
+1608546102.849504,Village Reserve Downstairs,0,0
+1608546370.2414804,The Village Reserve,1,1
+1608546401.393638,Village Reserve Downstairs,0,0
+1608546670.414555,The Village Reserve,1,1
+1608546700.8307276,Village Reserve Downstairs,0,0
+1608546970.3279457,The Village Reserve,1,1
+1608547000.6894267,Village Reserve Downstairs,0,0
+1608547270.1067135,The Village Reserve,1,1
+1608547300.4682467,Village Reserve Downstairs,0,0
+rn self.main(*args, **kwargs)
   File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
     rv = self.invoke(ctx)
   File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
