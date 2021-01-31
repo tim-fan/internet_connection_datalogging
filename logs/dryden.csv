@@ -389,7 +389,7 @@ timestamp,ssid,device_connected,ping_successful
 1609939979.810587,The Village Reserve,1,0
 1609943579.866997,The Village Reserve,1,0
 1609947180.0073428,The Village Reserve,1,0
-                                           1609951361.8884616,The Village Reserve,1,0
+1609951361.8884616,The Village Reserve,1,0
 1609954962.3,The Village Reserve,1,0
 1609958562.124937,The Village Reserve,1,0
 1609962163.1675477,The Village Reserve,1,0
@@ -418,7 +418,7 @@ timestamp,ssid,device_connected,ping_successful
 1610044962.1790845,The Village Reserve,1,0
 1610048564.3330905,The Village Reserve,1,0
 1610052162.1159916,The Village Reserve,1,0
-                                           1610057464.4876173,The Village Reserve,1,0
+1610057464.4876173,The Village Reserve,1,0
 1610061064.2890167,The Village Reserve,1,0
 1610064664.4026694,The Village Reserve,1,0
 1610068264.2710795,The Village Reserve,1,0
@@ -442,7 +442,7 @@ timestamp,ssid,device_connected,ping_successful
 1610130827.211382,The Village Reserve,1,0
 1610134427.2396553,The Village Reserve,1,0
 1610138027.3329139,The Village Reserve,1,0
-                                           1610141940.4289627,The Village Reserve,1,0
+1610141940.4289627,The Village Reserve,1,0
 1610145541.3545952,The Village Reserve,1,0
 1610149141.6151285,The Village Reserve,1,0
 1610152741.4416466,The Village Reserve,1,0
@@ -450,7 +450,7 @@ timestamp,ssid,device_connected,ping_successful
 1610159941.6061392,The Village Reserve,1,0
 1610163541.393883,The Village Reserve,1,0
 1610167141.60817,The Village Reserve,1,0
-                                           1610170606.314517,The Village Reserve,1,0
+1610170606.314517,The Village Reserve,1,0
 1610174439.8498187,The Village Reserve,1,0
 1610177806.7954528,The Village Reserve,1,0
 1610181406.7845695,The Village Reserve,1,0
@@ -498,7 +498,7 @@ timestamp,ssid,device_connected,ping_successful
 1610329824.5922713,The Village Reserve,1,0
 1610333424.424806,The Village Reserve,1,0
 1610337024.3749342,The Village Reserve,1,0
-                                           1610339982.2243004,The Village Reserve,1,0
+1610339982.2243004,The Village Reserve,1,0
 1610344345.4242783,The Village Reserve,1,0
 1610347182.3810234,The Village Reserve,1,0
 1610350782.3556478,The Village Reserve,1,0
@@ -533,7 +533,7 @@ timestamp,ssid,device_connected,ping_successful
 1610453318.6801403,The Village Reserve,1,0
 1610456918.6422634,The Village Reserve,1,0
 1610460518.4649255,The Village Reserve,1,0
-                                           1610464360.5223217,The Village Reserve,1,0
+1610464360.5223217,The Village Reserve,1,0
 1610467960.591512,The Village Reserve,1,0
 1610471827.6840796,The Village Reserve,1,0
 1610475531.7709239,The Village Reserve,1,0
@@ -574,11 +574,11 @@ timestamp,ssid,device_connected,ping_successful
 1610601613.4416912,The Village Reserve,1,0
 1610605213.3852994,The Village Reserve,1,0
 1610608813.3891034,The Village Reserve,1,0
-                                          1610611682.0507348,The Village Reserve,1,0
+1610611682.0507348,The Village Reserve,1,0
 1610616239.5976527,The Village Reserve,1,0
 1610618882.181665,The Village Reserve,1,0
 1610622482.2773917,The Village Reserve,1,0
-                                           1610624941.1034386,The Village Reserve,1,0
+1610624941.1034386,The Village Reserve,1,0
 1610630105.5487828,The Village Reserve,1,0
 1610632141.1223552,The Village Reserve,1,0
 1610635741.1224868,The Village Reserve,1,0
@@ -646,20 +646,6 @@ timestamp,ssid,device_connected,ping_successful
 1610851079.9778907,The Village Reserve,1,0
 1610854676.0096998,The Village Reserve,1,0
 1610858275.9710715,The Village Reserve,1,0
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1610858861.3431175,The Village Reserve,1,0
 1610862464.4273283,The Village Reserve,1,0
 1610866065.2057981,The Village Reserve,1,0
@@ -738,7 +724,7 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1611126876.264751,The Village Reserve,1,0
 1611130478.9915912,The Village Reserve,1,0
 1611134075.2516,The Village Reserve,1,0
-                        1611136899.9084542,The Village Reserve,1,0
+1611136899.9084542,The Village Reserve,1,0
 1611141528.6862879,The Village Reserve,1,0
 1611144103.1944416,The Village Reserve,1,0
 1611147703.0520744,The Village Reserve,1,0
@@ -850,7 +836,7 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1611524438.4286025,The Village Reserve,1,0
 1611528040.4598262,The Village Reserve,1,0
 1611531638.585223,The Village Reserve,1,0
-                                           1611531058.6866302,The Village Reserve,1,0
+1611531058.6866302,The Village Reserve,1,0
 1611536559.7113469,The Village Reserve,1,0
 1611538262.2205281,The Village Reserve,1,0
 1611541861.2456756,The Village Reserve,1,0
@@ -1002,7 +988,7 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1612057434.3017588,The Village Reserve,1,0
 1612061034.2840745,The Village Reserve,1,0
 1612064634.216248,The Village Reserve,1,0
-                                           1612067937.120589,The Village Reserve,1,0
+1612067937.120589,The Village Reserve,1,0
 1612071604.9002597,The Village Reserve,1,0
 1612075137.4157062,The Village Reserve,1,0
 1612078737.6587486,The Village Reserve,1,0
