@@ -2058,9 +2058,6 @@ timestamp,ssid,device_connected,ping_successful
 1615868053.110677,The Village Reserve,1,1
 1615871651.8457453,The Village Reserve,1,1
 1615875251.8489635,The Village Reserve,1,1
-                                          1615879154.57255,The Village Reserve,1,1
-1615882754.5607936,The Village Reserve,1,1
-1615885823.4003336,The Village Reserve,1,1
 1615889423.9724011,The Village Reserve,1,1
 1615893024.001886,The Village Reserve,1,1
 1615896623.9829853,The Village Reserve,1,1
@@ -2084,7 +2081,6 @@ timestamp,ssid,device_connected,ping_successful
 1615955396.8956509,The Village Reserve,1,1
 1615957820.2812576,The Village Reserve,1,1
 1615958100.1097605,The Village Reserve,1,1
-                                           1615961804.2943604,The Village Reserve,1,1
 1615965404.7254155,The Village Reserve,1,1
 1615969004.7277467,The Village Reserve,1,1
 1615972604.7326543,The Village Reserve,1,1
@@ -2095,7 +2091,6 @@ timestamp,ssid,device_connected,ping_successful
 1615990604.5014343,The Village Reserve,1,1
 1615994204.648327,The Village Reserve,1,1
 1615997804.4983435,The Village Reserve,1,1
-                                          1616001088.9972043,The Village Reserve,1,1
 1616004690.8577666,The Village Reserve,1,1
 1616008289.0752122,The Village Reserve,1,1
 1616011888.796811,The Village Reserve,1,1
@@ -2169,18 +2164,4 @@ timestamp,ssid,device_connected,ping_successful
 1616188208.6372695,The Village Reserve,1,1
 1616190618.4076574,The Village Reserve,1,1
 1616194219.332706,The Village Reserve,1,1
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1616196654.345031,The Village Reserve,1,1
