@@ -2243,7 +2243,6 @@ timestamp,ssid,device_connected,ping_successful
 1616443728.6586483,The Village Reserve,1,1
 1616447327.9385104,The Village Reserve,1,1
 1616450927.9377031,The Village Reserve,1,1
-                                           1616454802.4999304,The Village Reserve,1,1
 1616458402.8088286,The Village Reserve,1,1
 1616462012.1182396,The Village Reserve,1,1
 1616465602.789741,The Village Reserve,1,1
@@ -2276,20 +2275,6 @@ timestamp,ssid,device_connected,ping_successful
 1616561497.3887174,The Village Reserve,1,1
 1616565097.3545852,The Village Reserve,1,1
 1616568697.3527043,The Village Reserve,1,1
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1616572004.901762,The Village Reserve,1,1
 1616575603.698254,The Village Reserve,1,1
 1616579203.7929232,The Village Reserve,1,1
@@ -2327,7 +2312,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1616671942.7989032,The Village Reserve,1,1
 1616675542.6311827,The Village Reserve,1,1
 1616679160.733906,The Village Reserve,1,1
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          1616683387.2841618,The Village Reserve,1,1
 1616686989.6494074,The Village Reserve,1,1
 1616690587.603121,The Village Reserve,1,1
 1616694187.7584352,The Village Reserve,1,1
@@ -2364,20 +2348,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1616796053.1961412,The Village Reserve,1,1
 1616799653.1368108,The Village Reserve,1,1
 1616801043.736131,The Village Reserve,0,0
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1616801273.8569548,The Village Reserve,1,1
 1616801601.46636,The Village Reserve,0,0
 1616805175.0492036,The Village Reserve,1,1
@@ -2385,20 +2355,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1616812376.2829902,The Village Reserve,1,1
 1616816062.5565648,The Village Reserve,1,1
 1616819662.8434427,The Village Reserve,1,1
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1616823155.5341847,The Village Reserve,1,1
 1616826754.1984947,The Village Reserve,1,1
 1616830354.0324626,The Village Reserve,1,1
@@ -2466,7 +2422,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1617039384.281118,The Village Reserve,1,1
 1617042984.4370408,The Village Reserve,1,1
 1617046584.6411617,The Village Reserve,1,1
-                                           1617050593.0946605,The Village Reserve,1,1
 1617054193.4734342,The Village Reserve,1,1
 1617057793.3722491,The Village Reserve,1,1
 1617061393.4638705,The Village Reserve,1,1
@@ -2481,7 +2436,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1617093793.5903277,The Village Reserve,1,1
 1617097398.4540124,The Village Reserve,1,1
 1617100993.4108095,The Village Reserve,1,1
-                                          1617104673.7581916,The Village Reserve,1,1
 1617108273.9619102,The Village Reserve,1,1
 1617111876.954868,The Village Reserve,1,0
 1617115477.075399,The Village Reserve,1,0
@@ -2490,7 +2444,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1617126276.946178,The Village Reserve,1,0
 1617129876.9684615,The Village Reserve,1,0
 1617133477.0121214,The Village Reserve,1,0
-                                           1617137301.6119595,The Village Reserve,1,0
 1617140901.9668305,The Village Reserve,1,0
 1617144501.9120533,The Village Reserve,1,0
 1617148101.9808466,The Village Reserve,1,0
@@ -2503,7 +2456,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1617173301.9734178,The Village Reserve,1,0
 1617176902.2100277,The Village Reserve,1,0
 1617180502.23603,The Village Reserve,1,0
-                                          1617184423.1211112,The Village Reserve,1,0
 1617188023.3934681,The Village Reserve,1,0
 1617191623.35601,The Village Reserve,1,0
 1617195223.336012,The Village Reserve,1,0
@@ -2611,7 +2563,6 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1617551801.845179,The Village Reserve,1,0
 1617552660.148612,The Village Reserve,1,0
 1617556974.2884598,The Village Reserve,1,0
-                                           1617559534.8055396,The Village Reserve,1,0
 1617563717.0098307,The Village Reserve,1,0
 1617566734.9258811,The Village Reserve,1,0
 1617570335.2266417,The Village Reserve,1,0
@@ -2664,60 +2615,17 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1617735899.2985365,The Village Reserve,1,1
 1617738321.5825586,The Village Reserve,1,1
 1617741924.2170014,The Village Reserve,1,1
-                                           Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1617745934.5268285,The Village Reserve,1,1
 1617749534.5265553,The Village Reserve,1,1
 1617753134.536799,The Village Reserve,1,1
 1617756734.3870003,The Village Reserve,1,1
 1617760334.5609534,The Village Reserve,1,1
-                                           1617764093.6947424,The Village Reserve,1,1
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1617764213.8450732,The Village Reserve,1,1
 1617767882.7382038,The Village Reserve,1,1
 1617771487.837019,The Village Reserve,1,1
 1617775087.8542938,The Village Reserve,1,1
 1617778683.0803647,The Village Reserve,1,1
 1617782289.836252,The Village Reserve,1,1
-Traceback (most recent call last):
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
-    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
-    return self.main(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
-    rv = self.invoke(ctx)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
-    return ctx.invoke(self.callback, **ctx.params)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
-    return callback(*args, **kwargs)
-  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
-    initial_connection = wireless_dev.ActiveConnection.Connection
-AttributeError: 'NoneType' object has no attribute 'Connection'
 1617782856.932029,The Village Reserve,1,1
 1617786446.6908417,The Village Reserve,1,1
 1617790046.5950685,The Village Reserve,1,1
@@ -2734,10 +2642,8 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1617824344.1956203,The Village Reserve,0,0
 1617827944.1569703,The Village Reserve,0,0
 1617808384.7537327,The Village Reserve,0,0
-                                           1617808384.7334516,The Village Reserve,0,0
 1617808385.7291577,The Village Reserve,0,0
 1617811985.0685873,The Village Reserve,0,0
-                                          1617808384.6069274,The Village Reserve,0,0
 1617808386.632082,The Village Reserve,0,0
 1617808386.5495107,The Village Reserve,0,0
 1617808386.4472418,The Village Reserve,0,0
