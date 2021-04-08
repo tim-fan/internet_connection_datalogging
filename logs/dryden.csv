@@ -2327,4 +2327,419 @@ AttributeError: 'NoneType' object has no attribute 'Connection'
 1616671942.7989032,The Village Reserve,1,1
 1616675542.6311827,The Village Reserve,1,1
 1616679160.733906,The Village Reserve,1,1
-                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          1616683387.2841618,The Village Reserve,1,1
+1616686989.6494074,The Village Reserve,1,1
+1616690587.603121,The Village Reserve,1,1
+1616694187.7584352,The Village Reserve,1,1
+1616697787.848923,The Village Reserve,1,1
+1616701387.6321692,The Village Reserve,1,1
+1616705128.6432385,The Village Reserve,1,1
+1616705341.463478,The Village Reserve,1,1
+1616705485.28998,The Village Reserve,1,1
+1616709083.8902948,The Village Reserve,1,1
+1616712683.8692431,The Village Reserve,1,1
+1616716283.9376755,The Village Reserve,1,1
+1616719883.9296095,The Village Reserve,1,1
+1616723483.9418106,The Village Reserve,1,1
+1616727085.9522107,The Village Reserve,1,1
+1616730683.8971498,The Village Reserve,1,1
+1616734283.939242,The Village Reserve,1,1
+1616737884.0210478,The Village Reserve,1,1
+1616741483.878634,The Village Reserve,1,1
+1616745083.9479182,The Village Reserve,1,1
+1616748686.8957372,The Village Reserve,1,1
+1616749000.2326336,The Village Reserve,1,1
+1616752605.849139,The Village Reserve,1,1
+1616756200.74826,The Village Reserve,1,1
+1616759800.9347417,The Village Reserve,1,1
+1616763571.8552809,The Village Reserve,1,1
+1616767171.9007201,The Village Reserve,1,1
+1616770852.5476303,The Village Reserve,1,1
+1616774453.2234883,The Village Reserve,1,1
+1616778053.1508741,The Village Reserve,1,1
+1616781653.345801,The Village Reserve,1,1
+1616785253.2026527,The Village Reserve,1,1
+1616788853.204197,The Village Reserve,1,1
+1616792453.2068212,The Village Reserve,1,1
+1616796053.1961412,The Village Reserve,1,1
+1616799653.1368108,The Village Reserve,1,1
+1616801043.736131,The Village Reserve,0,0
+Traceback (most recent call last):
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
+    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
+    initial_connection = wireless_dev.ActiveConnection.Connection
+AttributeError: 'NoneType' object has no attribute 'Connection'
+1616801273.8569548,The Village Reserve,1,1
+1616801601.46636,The Village Reserve,0,0
+1616805175.0492036,The Village Reserve,1,1
+1616808775.224888,The Village Reserve,1,1
+1616812376.2829902,The Village Reserve,1,1
+1616816062.5565648,The Village Reserve,1,1
+1616819662.8434427,The Village Reserve,1,1
+Traceback (most recent call last):
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
+    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
+    initial_connection = wireless_dev.ActiveConnection.Connection
+AttributeError: 'NoneType' object has no attribute 'Connection'
+1616823155.5341847,The Village Reserve,1,1
+1616826754.1984947,The Village Reserve,1,1
+1616830354.0324626,The Village Reserve,1,1
+1616833953.9267428,The Village Reserve,1,1
+1616837564.0392294,The Village Reserve,1,1
+1616841243.139218,The Village Reserve,1,1
+1616844843.5941598,The Village Reserve,1,1
+1616848443.4415293,The Village Reserve,1,1
+1616852043.6483226,The Village Reserve,1,1
+1616855643.5074947,The Village Reserve,1,1
+1616858598.8365326,The Village Reserve,0,0
+1616862172.2766564,The Village Reserve,1,1
+1616865772.1801834,The Village Reserve,1,1
+1616869372.4507363,The Village Reserve,1,1
+1616872972.2786112,The Village Reserve,1,1
+1616876572.266134,The Village Reserve,1,1
+1616880172.264762,The Village Reserve,1,1
+1616883772.4852827,The Village Reserve,1,1
+1616887372.3016946,The Village Reserve,1,1
+1616889592.8986614,The Village Reserve,1,1
+1616893193.1485212,The Village Reserve,1,1
+1616897005.338202,The Village Reserve,1,1
+1616900605.7335258,The Village Reserve,1,1
+1616904205.6784549,The Village Reserve,1,1
+1616907805.5570264,The Village Reserve,1,1
+1616911405.6748545,The Village Reserve,1,1
+1616913890.1995351,The Village Reserve,1,1
+1616917463.6615295,The Village Reserve,1,1
+1616921063.5577064,The Village Reserve,1,1
+1616924663.5673692,The Village Reserve,1,1
+1616928263.4625998,The Village Reserve,1,1
+1616931868.5696852,The Village Reserve,1,1
+1616935463.497453,The Village Reserve,1,1
+1616939063.563626,The Village Reserve,1,1
+1616942663.5439763,The Village Reserve,1,1
+1616946263.5427792,The Village Reserve,1,1
+1616949863.487236,The Village Reserve,1,1
+1616953463.544499,The Village Reserve,1,1
+1616957063.49839,The Village Reserve,1,1
+1616960663.5610278,The Village Reserve,1,1
+1616964263.564803,The Village Reserve,1,1
+1616967863.5422285,The Village Reserve,1,1
+1616970892.4104092,The Village Reserve,1,1
+1616974492.5666902,The Village Reserve,1,1
+1616978092.7178369,The Village Reserve,1,1
+1616981692.5184581,The Village Reserve,1,1
+1616985292.4773192,The Village Reserve,1,1
+1616988981.7932224,The Village Reserve,1,1
+1616992582.0472977,The Village Reserve,1,1
+1616995291.907051,The Village Reserve,1,1
+1616998885.6887507,The Village Reserve,1,1
+1617002019.0584357,The Village Reserve,1,1
+1617005619.2174091,The Village Reserve,1,1
+1617009219.3272622,The Village Reserve,1,1
+1617009947.1375353,The Village Reserve,1,1
+1617013547.3928576,The Village Reserve,1,1
+1617017148.3129754,The Village Reserve,1,1
+1617020871.2268736,The Village Reserve,1,1
+1617022031.1401515,The Village Reserve,1,1
+1617022488.5433173,The Village Reserve,1,1
+1617026085.9157896,The Village Reserve,1,1
+1617029686.098882,The Village Reserve,1,1
+1617033286.0089788,The Village Reserve,1,1
+1617036885.853853,The Village Reserve,1,1
+1617039384.281118,The Village Reserve,1,1
+1617042984.4370408,The Village Reserve,1,1
+1617046584.6411617,The Village Reserve,1,1
+                                           1617050593.0946605,The Village Reserve,1,1
+1617054193.4734342,The Village Reserve,1,1
+1617057793.3722491,The Village Reserve,1,1
+1617061393.4638705,The Village Reserve,1,1
+1617064993.4755683,The Village Reserve,1,1
+1617068593.5847335,The Village Reserve,1,1
+1617072193.4240136,The Village Reserve,1,1
+1617075793.4195018,The Village Reserve,1,1
+1617079398.4193094,The Village Reserve,1,1
+1617082993.4139314,The Village Reserve,1,1
+1617086593.4735339,The Village Reserve,1,1
+1617090193.4386024,The Village Reserve,1,1
+1617093793.5903277,The Village Reserve,1,1
+1617097398.4540124,The Village Reserve,1,1
+1617100993.4108095,The Village Reserve,1,1
+                                          1617104673.7581916,The Village Reserve,1,1
+1617108273.9619102,The Village Reserve,1,1
+1617111876.954868,The Village Reserve,1,0
+1617115477.075399,The Village Reserve,1,0
+1617119077.111182,The Village Reserve,1,0
+1617122677.1607666,The Village Reserve,1,0
+1617126276.946178,The Village Reserve,1,0
+1617129876.9684615,The Village Reserve,1,0
+1617133477.0121214,The Village Reserve,1,0
+                                           1617137301.6119595,The Village Reserve,1,0
+1617140901.9668305,The Village Reserve,1,0
+1617144501.9120533,The Village Reserve,1,0
+1617148101.9808466,The Village Reserve,1,0
+1617151701.926165,The Village Reserve,1,0
+1617155302.1323109,The Village Reserve,1,0
+1617158902.1614084,The Village Reserve,1,0
+1617162501.9968283,The Village Reserve,1,0
+1617166101.9996645,The Village Reserve,1,0
+1617169701.9478903,The Village Reserve,1,0
+1617173301.9734178,The Village Reserve,1,0
+1617176902.2100277,The Village Reserve,1,0
+1617180502.23603,The Village Reserve,1,0
+                                          1617184423.1211112,The Village Reserve,1,0
+1617188023.3934681,The Village Reserve,1,0
+1617191623.35601,The Village Reserve,1,0
+1617195223.336012,The Village Reserve,1,0
+1617198823.3520346,The Village Reserve,1,0
+1617202422.274032,The Village Reserve,1,0
+1617206024.6785116,The Village Reserve,1,0
+1617209623.3555484,The Village Reserve,1,0
+1617213223.3169289,The Village Reserve,1,0
+1617216823.280868,The Village Reserve,1,0
+1617220423.363092,The Village Reserve,1,0
+1617224023.3348632,The Village Reserve,1,0
+1617227623.2773101,The Village Reserve,1,0
+1617231223.436812,The Village Reserve,1,0
+1617234823.2751257,The Village Reserve,1,0
+1617238423.3157737,The Village Reserve,1,0
+1617242023.3376873,The Village Reserve,1,0
+1617243845.3914974,The Village Reserve,1,0
+1617249454.776212,The Village Reserve,1,0
+1617251045.7145357,The Village Reserve,1,0
+1617254650.666994,The Village Reserve,1,0
+1617258245.6341345,The Village Reserve,1,0
+1617261845.726657,The Village Reserve,1,0
+1617265445.7030768,The Village Reserve,1,0
+1617269043.8987057,The Village Reserve,1,0
+1617272645.4752588,The Village Reserve,1,0
+1617276245.59828,The Village Reserve,1,0
+1617279845.7117887,The Village Reserve,1,0
+1617283444.203309,The Village Reserve,1,0
+1617287050.701159,The Village Reserve,1,0
+1617290645.6259806,The Village Reserve,1,0
+1617294248.8376484,The Village Reserve,1,0
+1617297846.6578004,The Village Reserve,1,0
+1617301442.957759,The Village Reserve,1,0
+1617305042.6352623,The Village Reserve,1,0
+1617308642.7200837,The Village Reserve,1,0
+1617312242.8276742,The Village Reserve,1,0
+1617315842.7081413,The Village Reserve,1,0
+1617319442.6286747,The Village Reserve,1,0
+1617323042.6461282,The Village Reserve,1,0
+1617326642.709617,The Village Reserve,1,0
+1617327099.8908703,The Village Reserve,1,0
+1617330828.6066,The Village Reserve,1,0
+1617334295.448048,The Village Reserve,1,0
+1617337895.5462022,The Village Reserve,1,0
+1617339544.0491712,The Village Reserve,1,0
+1617345278.5580692,The Village Reserve,1,0
+1617346743.1509929,The Village Reserve,1,0
+1617350349.203439,The Village Reserve,1,0
+1617353943.0673342,The Village Reserve,1,0
+1617357543.0587325,The Village Reserve,1,0
+1617361143.1941638,The Village Reserve,1,0
+1617364743.1378636,The Village Reserve,1,0
+1617368343.0623899,The Village Reserve,1,0
+1617371942.9628696,The Village Reserve,1,0
+1617375543.1813524,The Village Reserve,1,0
+1617379143.0597308,The Village Reserve,1,0
+1617382743.198543,The Village Reserve,1,0
+1617386282.5211618,The Village Reserve,1,0
+1617389996.2943082,The Village Reserve,1,0
+1617393482.7720258,The Village Reserve,1,0
+1617397082.9463584,The Village Reserve,1,0
+1617400682.7996988,The Village Reserve,1,0
+1617404285.0129278,The Village Reserve,1,0
+1617407882.817395,The Village Reserve,1,0
+1617411482.7549758,The Village Reserve,1,0
+1617410996.8878312,The Village Reserve,1,0
+1617416098.1786559,The Village Reserve,1,0
+1617418190.324407,The Village Reserve,1,0
+1617421790.2399375,The Village Reserve,1,0
+1617425390.329785,The Village Reserve,1,0
+1617428990.2698789,The Village Reserve,1,0
+1617432590.2424898,The Village Reserve,1,0
+1617436190.310712,The Village Reserve,1,0
+1617439795.3035104,The Village Reserve,1,0
+1617443390.504406,The Village Reserve,1,0
+1617446990.3998528,The Village Reserve,1,0
+1617450590.4719863,The Village Reserve,1,0
+1617454513.4332113,The Village Reserve,1,0
+1617458158.3591464,The Village Reserve,1,0
+1617461713.622427,The Village Reserve,1,0
+1617465313.4848652,The Village Reserve,1,0
+1617468912.449294,The Village Reserve,1,0
+1617472513.4282765,The Village Reserve,1,0
+1617476113.5197244,The Village Reserve,1,0
+1617479713.6311696,The Village Reserve,1,0
+1617483313.3754327,The Village Reserve,1,0
+1617486913.4747765,The Village Reserve,1,0
+1617490513.5798674,The Village Reserve,1,0
+1617494122.6795523,The Village Reserve,1,0
+1617497713.4289975,The Village Reserve,1,0
+1617501402.47683,The Village Reserve,1,0
+1617505001.980156,The Village Reserve,1,0
+1617508601.8500025,The Village Reserve,1,0
+1617512202.0611863,The Village Reserve,1,0
+1617515801.8098617,The Village Reserve,1,0
+1617519402.0107374,The Village Reserve,1,0
+1617523001.8317504,The Village Reserve,1,0
+1617526601.98718,The Village Reserve,1,0
+1617530201.7673807,The Village Reserve,1,0
+1617533801.8112082,The Village Reserve,1,0
+1617537401.8488662,The Village Reserve,1,0
+1617541002.0646393,The Village Reserve,1,0
+1617544601.8027706,The Village Reserve,1,0
+1617548201.821245,The Village Reserve,1,0
+1617551801.845179,The Village Reserve,1,0
+1617552660.148612,The Village Reserve,1,0
+1617556974.2884598,The Village Reserve,1,0
+                                           1617559534.8055396,The Village Reserve,1,0
+1617563717.0098307,The Village Reserve,1,0
+1617566734.9258811,The Village Reserve,1,0
+1617570335.2266417,The Village Reserve,1,0
+1617573934.9895375,The Village Reserve,1,0
+1617577535.0610237,The Village Reserve,1,0
+1617581135.002568,The Village Reserve,1,0
+1617584735.0189779,The Village Reserve,1,0
+1617585520.0577629,The Village Reserve,1,0
+1617590116.8676517,The Village Reserve,1,0
+1617592722.0455713,The Village Reserve,1,0
+1617596320.294079,The Village Reserve,1,0
+1617599920.2189012,The Village Reserve,1,0
+1617603520.3063803,The Village Reserve,1,0
+1617607120.260138,The Village Reserve,1,0
+1617610720.3209002,The Village Reserve,1,0
+1617614346.2850964,The Village Reserve,0,0
+1617617919.1747475,The Village Reserve,1,0
+1617621520.2740772,The Village Reserve,1,0
+1617625120.2852638,The Village Reserve,1,0
+1617628720.2420504,The Village Reserve,1,0
+1617632320.287587,The Village Reserve,1,0
+1617635920.2833085,The Village Reserve,1,0
+1617639520.3792405,The Village Reserve,1,0
+1617643120.2965448,The Village Reserve,1,0
+1617646720.343214,The Village Reserve,1,0
+1617650325.3656802,The Village Reserve,1,0
+1617653920.4458063,The Village Reserve,1,0
+1617657520.355939,The Village Reserve,1,0
+1617661120.300965,The Village Reserve,1,0
+1617664720.2115254,The Village Reserve,1,0
+1617668325.216401,The Village Reserve,1,0
+1617671920.275086,The Village Reserve,1,0
+1617674700.0568047,The Village Reserve,1,0
+1617679213.3753452,The Village Reserve,1,0
+1617681901.1984034,The Village Reserve,1,0
+1617685499.2656794,The Village Reserve,1,0
+1617689099.2209582,The Village Reserve,1,1
+1617692699.4031656,The Village Reserve,1,1
+1617696299.5075235,The Village Reserve,1,1
+1617699899.713954,The Village Reserve,1,1
+1617703499.4579809,The Village Reserve,1,1
+1617707101.2796693,The Village Reserve,1,1
+1617710704.414524,The Village Reserve,1,1
+1617714305.2777574,The Village Reserve,1,1
+1617717899.2112236,The Village Reserve,1,1
+1617721499.3079863,The Village Reserve,1,1
+1617725099.308254,The Village Reserve,1,1
+1617728701.2490113,The Village Reserve,1,1
+1617732304.3303185,The Village Reserve,1,1
+1617735899.2985365,The Village Reserve,1,1
+1617738321.5825586,The Village Reserve,1,1
+1617741924.2170014,The Village Reserve,1,1
+                                           Traceback (most recent call last):
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
+    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
+    initial_connection = wireless_dev.ActiveConnection.Connection
+AttributeError: 'NoneType' object has no attribute 'Connection'
+1617745934.5268285,The Village Reserve,1,1
+1617749534.5265553,The Village Reserve,1,1
+1617753134.536799,The Village Reserve,1,1
+1617756734.3870003,The Village Reserve,1,1
+1617760334.5609534,The Village Reserve,1,1
+                                           1617764093.6947424,The Village Reserve,1,1
+Traceback (most recent call last):
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
+    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
+    initial_connection = wireless_dev.ActiveConnection.Connection
+AttributeError: 'NoneType' object has no attribute 'Connection'
+1617764213.8450732,The Village Reserve,1,1
+1617767882.7382038,The Village Reserve,1,1
+1617771487.837019,The Village Reserve,1,1
+1617775087.8542938,The Village Reserve,1,1
+1617778683.0803647,The Village Reserve,1,1
+1617782289.836252,The Village Reserve,1,1
+Traceback (most recent call last):
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/bin/internet_connection_monitor", line 11, in <module>
+    load_entry_point('internet-connection-monitor', 'console_scripts', 'internet_connection_monitor')()
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/venv/lib/python3.8/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
+    initial_connection = wireless_dev.ActiveConnection.Connection
+AttributeError: 'NoneType' object has no attribute 'Connection'
+1617782856.932029,The Village Reserve,1,1
+1617786446.6908417,The Village Reserve,1,1
+1617790046.5950685,The Village Reserve,1,1
+1617793651.5440762,The Village Reserve,1,1
+1617797460.3238876,The Village Reserve,1,1
+1617801086.7635024,The Village Reserve,0,0
+1617804665.5967062,The Village Reserve,1,1
+1617805766.366516,The Village Reserve,0,0
+1617806317.6969144,The Village Reserve,1,1
+1617809944.4088995,The Village Reserve,0,0
+1617813544.1889358,The Village Reserve,0,0
+1617817144.115693,The Village Reserve,0,0
+1617820744.1493442,The Village Reserve,0,0
+1617824344.1956203,The Village Reserve,0,0
+1617827944.1569703,The Village Reserve,0,0
+1617808384.7537327,The Village Reserve,0,0
+                                           1617808384.7334516,The Village Reserve,0,0
+1617808385.7291577,The Village Reserve,0,0
+1617811985.0685873,The Village Reserve,0,0
+                                          1617808384.6069274,The Village Reserve,0,0
+1617808386.632082,The Village Reserve,0,0
+1617808386.5495107,The Village Reserve,0,0
+1617808386.4472418,The Village Reserve,0,0
+1617811985.975386,The Village Reserve,0,0
+1617847697.6029594,The Village Reserve,1,1
