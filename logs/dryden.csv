@@ -5087,3 +5087,4 @@ Traceback (most recent call last):
   File "/home/tim/projects/20201220_internet_connection_monitor/internet_connection_monitor/internet_connection_monitor/cli.py", line 92, in main
     initial_connection = wireless_dev.ActiveConnection.Connection
 AttributeError: 'NoneType' object has no attribute 'Connection'
+1618433041.8638248,The Village Reserve,1,1
