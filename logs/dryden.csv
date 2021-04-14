@@ -4583,3 +4583,4 @@ Traceback (most recent call last):
     initial_connection = wireless_dev.ActiveConnection.Connection
 AttributeError: 'NoneType' object has no attribute 'Connection'
 1618380101.9407694,The Village Reserve,1,1
+1618383727.7477107,The Village Reserve,0,0
